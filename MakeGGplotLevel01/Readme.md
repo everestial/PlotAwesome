@@ -6,4 +6,8 @@ The script file is available as file **" 	MakeGGplotLevel01.R"**.
 
 **The "Rmarkdown" of the the analyses is available as HTML output in this link:** https://rawgit.com/everestial/AuxinInhibitionResultsDataAnalyses/master/AlyAuxinTreatmentDataAnalyses.html 
 
+https://cdn.jsdelivr.net/gh/everestial/AuxinInhibitionResultsDataAnalyses@fab7a236b9c84ad6aa9b5e27eb79db7149e490d2/AlyAuxinTreatmentDataAnalyses.html 
+
+
+
 
